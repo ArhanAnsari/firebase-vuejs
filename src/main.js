@@ -9,12 +9,13 @@ Vue.config.productionTip = false
 
 let app;
 var config = {
-  apiKey: "AIzaSyDlFQmbshbz32CxUn8mFHfGm7opw5UhUZg",
-  authDomain: "tinkering-6f440.firebaseapp.com",
-  databaseURL: "https://tinkering-6f440.firebaseio.com",
-  projectId: "tinkering-6f440",
-  storageBucket: "tinkering-6f440.appspot.com",
-  messagingSenderId: "966393702974"
+  apiKey: "AIzaSyAefPhDvyG-PNsP5uxhNi9QnCxLf7NlC3c",
+  authDomain: "chatapp-1e069.firebaseapp.com",
+  databaseURL: "https://chatapp-1e069.firebaseio.com",
+  projectId: "chatapp-1e069",
+  storageBucket: "chatapp-1e069.appspot.com",
+  messagingSenderId: "648930623293",
+  appId: "1:648930623293:web:d564bb6037febeeb1a8f54"
 };
 
 firebase.initializeApp(config);
